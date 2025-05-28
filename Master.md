@@ -230,7 +230,7 @@
  
 **5. Компонентная диаграмма**
 
-![](diagrams/components.png)
+![](diagrams/component.png)
 
 Что показывает:
 
